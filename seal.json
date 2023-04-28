@@ -1,0 +1,6 @@
+{
+  "contract": "Counter",
+  "constructors": [],
+  "payable": 0,
+  "targetEnvironment": "sepolia"
+}
